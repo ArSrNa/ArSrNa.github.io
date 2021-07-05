@@ -1,8 +1,18 @@
+---
+title: 隐私政策
+comments: true
+date: 2021-07-05 14:52:28
+keywords:
+description:
+photos: https://www.arsrna.cn/images/DSC08095_cop.jpg
+---
 # 隐私政策
+
+我们非常注重访问者的任何隐私，并保证不会在用户不同意的前提下越权。
 
 ## 站点地址
 
-我们的站点地址是：https://www.arsrna.cn，https://inm.pub或https://www.saten.top
+我们的站点地址是：https://www.arsrna.cn或com、https://9762.ltd、https://www.arsrna.ltd（博客站）
 
 ## 我们收集何种及为何收集个人数据
 
@@ -17,6 +27,10 @@
 ### 媒体
 
 如果您向此网站上传图片，您应当避免上传那些有嵌入地理位置信息（EXIF GPS）的图片。此网站的访客将可以下载并提取此网站的图片中的位置信息。
+
+### 浏览器信息
+
+型号，版本号，浏览器名称、以及访问时间将会在您手动提交requestID时一并递送到腾讯云Serverless日志端，改数据用于分析为何访问出错以及为何无法访问，包括浏览本站的交互行为（例如点击链接，Ajax请求）
 
 ### 联系表单
 
@@ -64,6 +78,11 @@ QQ:2459405337
 
 我们如何保护您的数据
 
-本站IaaS由腾讯云提供，CDN由腾讯云提供；安全保护由Cloudflare提供，网站证书由Sectigo提供、文件数据传输属于基础存储设施，由腾讯云COS提供
+本站前端由腾讯云提供，后端Serverless由腾讯云提供，网站证书由腾讯云提供
 
 我们使用加密技术（例如，TLS、SSL）、匿名化处理等手段来保护您的个人信息。
+
+# __________
+
+此致,
+Ar-Sr-Na
